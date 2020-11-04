@@ -1,0 +1,87 @@
+/* global styles */
+h1{
+    color: darkblue;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+li{
+    color: black;
+    font-family: 'satisfy', cursive;
+}
+h2{
+    color: navy;
+    font-family: 'Fira Mono', monospace
+}
+div{
+    font-family:'Parisienne', cursive;
+}
+body{
+    background: ;
+}
+/* header styles */
+nav{
+    background:pink;
+}
+#me{
+    text-align: center;
+    color: rgb(236, 184, 236);
+}
+/* skills */
+.Skills{
+    border: 1px solid black;
+}
+.Skills>div{
+    background: pink;
+    margin: 20px 5px 1px;
+    border: 1px solid black;
+    padding: 2px;
+}
+.Vault:hover{
+    background: lightblue;
+}
+.Bars:hover{
+    background:rgb(109, 109, 223);
+}
+.Beam:hover{
+    background: lightslategrey;
+}
+
+.Floor:hover{
+    background: snow;
+}
+.button{
+     
+    font-size: 20px;
+    padding: 5px;
+    margin: 2%;
+    background-color: paleturquoise;
+    color: rgb(236, 169, 192);
+    box-shadow:0 5px 5px plum;
+    border-radius: 15px;
+    font-family: 'Satisfy',cursive;
+}
+
+
+.button:hover{
+    background-color: white;
+}
+
+.button2{
+    font-size: large;
+    padding: 3px;
+    margin: 3%;
+    background-color: lightpink;
+    color: grey;
+    box-shadow:0 6px 5px rgb(62, 62, 173) ;
+    border-radius: 80px;
+    font-family:'Roboto Slab';, serif;
+
+}
+ 
+.button2:hover{
+    background-color: lightcyan;
+}
+/* Volleyball */
+.Vball{
+    width: 10%;
+}
